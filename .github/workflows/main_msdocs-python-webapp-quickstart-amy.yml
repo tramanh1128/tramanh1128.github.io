@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'msdocs-python-webapp-quickstart-AMY'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C1544B8078664D03ADDFCDFE8541E0E5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CECA868977B74AC5802F79C42D7DCA4C }}
